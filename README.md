@@ -1,6 +1,17 @@
 # NLP
 NLP related code.
 
+## MeLi_Challenge
+Challenge based on the Mercadolibre dataset published on 2019-2
+
+Visit https://ml-challenge.mercadolibre.com/ for more details.
+
+Solutions availiable here:
+- Fully Connected Neural Networks (FastText- SIF - 3 ANN) Performance of 79% on accuracy.
+- Recurrent Neural Networks (keras embedding, lstm, bi-lstm, gru, bi-gru) Performance of 81% on accuracy.
+
+*Keywords:* keras, fcnn, rnn, lstm, gru, leakyrelu, selu, relu, fasttext, sif, mercadolibre, bilstm, bigru
+
 ## Adversarial evaluation of model performances
 
 Here is an example on evaluating a model using adversarial evaluation of natural language inference with the Heuristic Analysis for NLI Systems (HANS) dataset [McCoy et al., 2019](https://arxiv.org/abs/1902.01007). The example was gracefully provided by [Nafise Sadat Moosavi](https://github.com/ns-moosavi).
