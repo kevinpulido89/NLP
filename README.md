@@ -10,7 +10,7 @@ Solutions availiable here:
 - Fully Connected Neural Networks (FastText- SIF - 3 ANN) Performance of 79% on accuracy.
 - Recurrent Neural Networks (keras embedding, lstm, bi-lstm, gru, bi-gru) Performance of 81% on accuracy.
 
-*Keywords:* keras, fcnn, rnn, lstm, gru, leakyrelu, selu, relu, fasttext, sif, mercadolibre, bilstm, bigru
+*Keywords:* keras, fcnn, rnn, lstm, gru, leakyrelu, selu, relu, , gelu, fasttext, sif, mercadolibre, bilstm, bigru
 
 ## Adversarial evaluation of model performances
 
