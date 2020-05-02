@@ -12,6 +12,10 @@ Solutions availiable here:
 
 *Keywords:* keras, fcnn, rnn, lstm, gru, leakyrelu, selu, relu, , gelu, fasttext, sif, mercadolibre, bilstm, bigru
 
+
+## BERT
+
+Ejemplos de clasificación con modelo(s) BERT y BERT-like (BETO)
 <!--
 ## Adversarial evaluation of model performances
 
