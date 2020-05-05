@@ -13,7 +13,7 @@ Solutions availiable here:
 *Keywords:* keras, fcnn, rnn, lstm, gru, leakyrelu, selu, relu, , gelu, fasttext, sif, mercadolibre, bilstm, bigru
 
 
-## BERT
+## BETO para resumen de texto en Español (BERT-like approach for text summmarization)
 
 Ejemplos de clasificación con modelo(s) BERT y BERT-like (BETO)
 <!--
