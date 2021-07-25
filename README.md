@@ -1,5 +1,5 @@
 # NLP
-NLP related code.
+NLP related code
 
 ## MeLi_Challenge
 Challenge based on the Mercadolibre dataset published on 2019-2
